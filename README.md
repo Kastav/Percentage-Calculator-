@@ -1,4 +1,4 @@
-<html>
+<html> 
 <head>
   <title>Percentage Calculator</title>
 </head>
